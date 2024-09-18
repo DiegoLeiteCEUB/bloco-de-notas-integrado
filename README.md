@@ -10,7 +10,7 @@ Aluno: Diego dos Santos Leite - RA 72350086 <br/>
 2. Abra o navegador Google Chrome; </br>
 3. Clique na opção "Extensões", usualmente no canto superior direito do Chrome (ícone com a peça de um quebra-cabeças), e depois em "Gerenciar extensões"; </br>
 4. Ative o "Modo do desenvolvedor" e clique no botão "Carregar sem compactação"; </br>
-5. Selecione a pasta do projeto descompactada. </br>
+5. Selecione a pasta do projeto descompactada (aquela cuja subpasta é "src", cuidado caso o descompactador crie uma nova super-pasta com o mesmo nome). </br>
 
 ## Utilizando o Bloco de Notas Integrado
 1. Para abrir o Bloco de Notas Integrado, clique na opção "Extensões", usualmente no canto superior direito do Chrome (ícone com a peça de um quebra-cabeças); </br>
