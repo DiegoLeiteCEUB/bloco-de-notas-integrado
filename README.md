@@ -6,10 +6,11 @@ Professor: Dr. Romes Eriberto <br/>
 Aluno: Diego dos Santos Leite - RA 72350086 <br/>
 
 ## Como instalar </br>
-1. Baixe o ZIP contendo todos os arquivos do projeto para o seu computador e descompacte; </br>
+1. Dentro do menu "Code" do GitHub, baixe o ZIP contendo todos os arquivos do projeto para o seu computador e descompacte; </br>
 2. Abra o navegador Google Chrome; </br>
 3. Clique na opção "Extensões", usualmente no canto superior direito do Chrome (ícone com a peça de um quebra-cabeças), e depois em "Gerenciar extensões"; </br>
 4. Ative o "Modo do desenvolvedor" e clique no botão "Carregar sem compactação"; </br>
+4.1. Atenção: alguns nomes de opções podem estar ligeiramente diferentes dependendo da versão do Chrome. Por exemplo, pode-se observar "modo do programador" em vez de "modo do desenvolvedor" </br>
 5. Selecione a pasta do projeto descompactada (aquela cuja subpasta é "src", cuidado caso o descompactador crie uma nova super-pasta com o mesmo nome). </br>
 
 ## Utilizando o Bloco de Notas Integrado
